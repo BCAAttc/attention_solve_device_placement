@@ -1,6 +1,6 @@
 # Attention解决任务部署问题 
 
-具体安装部署流程可以参考一下baseline：
+具体安装部署流程可以参考以下baseline：
 
 This repository includes adaptions of the following repositories as baselines:
 * [https://github.com/MichelDeudon/encode-attend-navigate](https://github.com/wouterkool/attention-learn-to-route)
