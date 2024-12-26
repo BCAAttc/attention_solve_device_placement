@@ -10,9 +10,9 @@ This repository includes adaptions of the following repositories as baselines:
 
 将原本一维TSP部分修改为二维
 
-修改了cost计算，pro计算按部分
+修改了cost计算，pro计算部分
 
-修改数据集格式
+修改数据集生成格式
 
 
 
