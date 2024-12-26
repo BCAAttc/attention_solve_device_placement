@@ -1,7 +1,18 @@
-# Attention解决任务部署问题
+# Attention解决任务部署问题 
+
+具体安装部署流程可以参考一下baseline：
 
 This repository includes adaptions of the following repositories as baselines:
 * [https://github.com/MichelDeudon/encode-attend-navigate](https://github.com/wouterkool/attention-learn-to-route)
+
+
+## 主要修改
+
+将原本一维TSP部分修改为二维
+
+修改了cost计算，pro计算按部分
+
+修改数据集格式
 
 
 
